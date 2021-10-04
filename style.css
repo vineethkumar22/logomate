@@ -1,0 +1,150 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-transform: capitalize;
+list-style: none;
+}
+
+
+.createnewlogo{
+   padding: 10px;
+    background: #274EC9;
+    box-shadow: 0px 23px 40px rgba(28, 80, 243, 0.2);
+    border-radius: 0px 0px 10px 10px;
+}
+
+
+.logofont{
+    font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 0.01em;
+text-align: center;
+color: #FDFEFF;
+
+}
+  .navbar-brand {
+    background-image: url("Assets/logo.svg");
+    width: 111px;
+    height: 82px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  
+  .navbar-nav .nav-item:hover {
+    background-color: white;
+  }
+  
+  .navbar{   
+    background: #274EC9;
+  }
+
+  .nav-item{
+    color: #FFFFFF;
+  }
+
+  .logocreater{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    letter-spacing: 0.01em;
+    
+    color: #FFFFFF;
+  }   
+    
+  .topbartext{
+      text-align: right;
+      font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+text-align: right;
+letter-spacing: 0.03em;
+  }
+  /* side nav bar starts */
+
+  .sidebar{
+      position: absolute;
+      width: 6rem;
+      margin: 1rem;
+      background: #4264D0;
+box-shadow: 0px 24px 40px rgba(144, 167, 239, 0.2);
+border-radius: 40px;
+  }
+
+  .list-sidebar{
+      line-height: 25rem;
+      width: 80%;
+      margin: 10px;
+  }
+
+  .list-sidebartwo{
+    line-height: 5rem;
+    margin: 2rem;
+    height: 100vw;
+}
+
+.container{
+    background: #E5E5E5;
+}
+/* search box  starts*/
+
+/* search box ends */
+.card{
+    padding: 5px;
+background: #FFFFFF;
+box-shadow: 0px 8px 10px rgba(2, 48, 193, 0.24);
+border-radius: 20px 20px 0px 0px;
+column-gap: 20px;
+}
+
+.bluebox{
+padding: 5px;
+background: #274EC9;
+box-shadow: 0px 23px 40px rgba(28, 80, 243, 0.2);
+border-radius: 0px 0px 10px;
+text-align: center;
+}
+
+.newlogo{
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #FDFEFF;
+}
+
+.row{
+    column-gap: 50px;
+}
+
+/* main card starts */
+
+
+.cardtext{
+    text-align: center;
+    font-family: Helvetica;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.01em;
+
+color: #4264D0;
+
+}
+
